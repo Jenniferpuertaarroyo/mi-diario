@@ -59,3 +59,9 @@
         End Sub
 
 # variable
+~~~
+    sub nombre()
+        nom = "luis"
+        num = 10
+        msgbox nom
+    end sub
